@@ -9,13 +9,10 @@ int main(){
         i++;
     } while(i <= 7);
 
-   
     //Movimento da Torre com FOR
     for(int z = 0; z < 5; z++){
         printf("Direita\n");
     }
-  
-   
     //Movimento do Bispo com WHILE
     int x = 0;
     while(x < 5){
